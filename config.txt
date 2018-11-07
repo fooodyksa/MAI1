@@ -1,5 +1,5 @@
 token=GnLnmZBjbPFhEZFzputLqfv9ma-feXGV
-owner=509727797187706901 
+owner=495944383921913878
 prefix=MI
 game= MAI
 stayinchannel=truefalse
