@@ -1,6 +1,6 @@
-token=GnLnmZBjbPFhEZFzputLqfv9ma-feXGV
-owner=495944383921913878
-prefix=MI
+token=1Dkjmp9aY6imidIQdbHPZJSi_8zk5kML
+owner=499982945088569344
+prefix=*M
 game= MAI
-stayinchannel=truefalse
-songinstatus=truefalse
+stayinchannel=false
+songinstatus=true
